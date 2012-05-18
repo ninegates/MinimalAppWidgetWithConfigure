@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LauncherActivity!</string>
+    <string name="app_name">MinimalAppWidgetWithConfigure</string>
+    <string name="action_appwidget_manual_update">com.example.android.test.minimalappwidgetwithconfigure.action_appwidget_manual_update</string>
+
+</resources>
